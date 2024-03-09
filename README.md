@@ -1,4 +1,4 @@
-# Google-Stock-Price-prediction
+# Stock-Price-prediction-Model
 Predicting google's stock price using linear regression, gradient boosted regression and decision tree regression
 
 This model makes use of linear regression, gradient boosted regression and decision tree regression to predict price of google stocks with the best accuracy of 98+% (Gradient boosting).
@@ -16,4 +16,5 @@ This model makes use of linear regression, gradient boosted regression and decis
 |:--:| 
 | *Accuracy Comparison of 3 models* |
 
+This model can be used for prediction of prices of other models too by just changing the api call.
 Try out the colab notebook here: [click here](https://colab.research.google.com/drive/1gC7_bIVTkOL73_agI7dD3hqc0iFFYTv5?usp=sharing) 
