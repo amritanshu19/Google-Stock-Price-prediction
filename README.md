@@ -8,6 +8,9 @@ This model makes use of linear regression, gradient boosted regression and decis
 |:--:| 
 | *The time series plot of linear regression model's prediction* |
 
+![39a0fc91-9091-44fa-b855-f087a267d03a](https://github.com/amritanshu19/Google-Stock-Price-prediction/assets/83136054/b80a541b-9c61-469b-8bba-8ef8746fba9b)
+|:--:| 
+| *The time series plot of Gradient boosted regression model's prediction* |
 
 ![ec3fe729-1d85-4877-a851-4003a088899b](https://github.com/amritanshu19/Google-Stock-Price-prediction/assets/83136054/ceec90f8-a366-433f-bd81-55c71222fc09)
 |:--:| 
